@@ -34,15 +34,15 @@
   "generos": [
     {
       "id": 1,
-      "nome": "Aventura",
+      "nome": "Aventura"
     },
     {
       "id": 2,
-      "nome": "Ação",
+      "nome": "Ação"
     },
     {
       "id": 3,
-      "nome": "Romance",
+      "nome": "Romance"
     }
   ],
   "editoras": [

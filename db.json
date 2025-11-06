@@ -48,21 +48,18 @@
       "cnpj": "111111111"
     }
   ],
-  "editoras": [
+  "generos": [
     {
       "id": 1,
-      "nome": "Editora 01",
-      "cnpj": "111111111"
+      "nome": "Aventura",
     },
     {
       "id": 2,
-      "nome": "Editora 2",
-      "cnpj": "111111111"
+      "nome": "Ação",
     },
     {
       "id": 3,
-      "nome": "Editora 3",
-      "cnpj": "111111111"
+      "nome": "Romance",
     }
   ]
 }

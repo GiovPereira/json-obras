@@ -31,7 +31,21 @@
       "secao": 3
     }
   ],
-"editoras": [
+  "generos": [
+    {
+      "id": 1,
+      "nome": "Aventura",
+    },
+    {
+      "id": 2,
+      "nome": "Ação",
+    },
+    {
+      "id": 3,
+      "nome": "Romance",
+    }
+  ],
+  "editoras": [
     {
       "id": 1,
       "nome": "Editora 01",
@@ -46,20 +60,6 @@
       "id": 3,
       "nome": "Editora 3",
       "cnpj": "111111111"
-    }
-  ],
-  "generos": [
-    {
-      "id": 1,
-      "nome": "Aventura",
-    },
-    {
-      "id": 2,
-      "nome": "Ação",
-    },
-    {
-      "id": 3,
-      "nome": "Romance",
     }
   ]
 }

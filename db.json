@@ -2,7 +2,7 @@
 "obras": [
     {
       "id": 1,
-      "título": "Obra 1",
+      "titulo": "Obra 1",
       "isbn": 1,
       "edicao": 1,
       "idAutor": 1,
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "título": "Obra 2",
+      "titulo": "Obra 2",
       "isbn": 2,
       "edicao": 2,
       "idAutor": 2,
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "título": "Obra 3",
+      "titulo": "Obra 3",
       "isbn": 3,
       "edicao": 3,
       "idAutor": 3,

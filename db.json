@@ -5,30 +5,30 @@
       "título": "Obra 1",
       "isbn": 1,
       "edicao": 1,
-      "editora": "A",
-      "genero": "A",
-      "idioma": "A",
-      "secao": 1
+      "idEditora": 1,
+      "idGenero": 2,
+      "idIdioma": 3,
+      "idSecao": 1
     },
     {
       "id": 2,
       "título": "Obra 2",
       "isbn": 2,
       "edicao": 2,
-      "editora": "B",
-      "genero": "B",
-      "idioma": "B",
-      "secao": 2
+      "idEditora": 3,
+      "idGenero": 2,
+      "idIdioma": 1,
+      "idSecao": 2
     },
     {
       "id": 3,
       "título": "Obra 3",
       "isbn": 3,
       "edicao": 3,
-      "editora": "C",
-      "genero": "B",
-      "idioma": "B",
-      "secao": 3
+      "idEditora": 1,
+      "idGenero": 3,
+      "idIdioma": 2,
+      "idSecao": 3
     }
   ],
   "generos": [
@@ -48,18 +48,18 @@
   "editoras": [
     {
       "id": 1,
-      "nome": "Editora 01",
+      "nome": "Editora 1",
       "cnpj": "111111111"
     },
     {
       "id": 2,
       "nome": "Editora 2",
-      "cnpj": "111111111"
+      "cnpj": "222222222"
     },
     {
       "id": 3,
       "nome": "Editora 3",
-      "cnpj": "111111111"
+      "cnpj": "333333333"
     }
   ]
 }

@@ -1,35 +1,222 @@
 {
-"obras": [
+  "obras": [
     {
       "id": 1,
-      "titulo": "Obra 1",
-      "isbn": 1,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "isbn": 9788533613409,
       "edicao": 1,
       "idAutor": 1,
       "idEditora": 1,
-      "idGenero": 2,
-      "idIdioma": 3,
+      "idGenero": 1,
+      "idIdioma": 2,
       "idSecao": 1
     },
     {
       "id": 2,
-      "titulo": "Obra 2",
-      "isbn": 2,
+      "titulo": "Dom Casmurro",
+      "isbn": 9788530809515,
       "edicao": 2,
       "idAutor": 2,
-      "idEditora": 3,
-      "idGenero": 2,
+      "idEditora": 2,
+      "idGenero": 3,
       "idIdioma": 1,
       "idSecao": 2
     },
     {
       "id": 3,
-      "titulo": "Obra 3",
-      "isbn": 3,
-      "edicao": 3,
+      "titulo": "Orgulho e Preconceito",
+      "isbn": 9780141439518,
+      "edicao": 1,
       "idAutor": 3,
+      "idEditora": 3,
+      "idGenero": 4,
+      "idIdioma": 2,
+      "idSecao": 3
+    },
+    {
+      "id": 4,
+      "titulo": "1984",
+      "isbn": 9780451524935,
+      "edicao": 1,
+      "idAutor": 4,
+      "idEditora": 4,
+      "idGenero": 2,
+      "idIdioma": 2,
+      "idSecao": 3
+    },
+    {
+      "id": 5,
+      "titulo": "A Revolução dos Bichos",
+      "isbn": 9780451526342,
+      "edicao": 1,
+      "idAutor": 4,
+      "idEditora": 4,
+      "idGenero": 2,
+      "idIdioma": 2,
+      "idSecao": 3
+    },
+    {
+      "id": 6,
+      "titulo": "O Hobbit",
+      "isbn": 9780345339683,
+      "edicao": 3,
+      "idAutor": 1,
       "idEditora": 1,
-      "idGenero": 3,
+      "idGenero": 1,
+      "idIdioma": 2,
+      "idSecao": 1
+    },
+    {
+      "id": 7,
+      "titulo": "A Culpa é das Estrelas",
+      "isbn": 9788565765162,
+      "edicao": 1,
+      "idAutor": 5,
+      "idEditora": 6,
+      "idGenero": 4,
+      "idIdioma": 1,
+      "idSecao": 4
+    },
+    {
+      "id": 8,
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "isbn": 9788532511019,
+      "edicao": 1,
+      "idAutor": 6,
+      "idEditora": 7,
+      "idGenero": 1,
+      "idIdioma": 1,
+      "idSecao": 1
+    },
+    {
+      "id": 9,
+      "titulo": "O Pequeno Príncipe",
+      "isbn": 9788520923034,
+      "edicao": 1,
+      "idAutor": 7,
+      "idEditora": 8,
+      "idGenero": 6,
+      "idIdioma": 1,
+      "idSecao": 4
+    },
+    {
+      "id": 10,
+      "titulo": "It: A Coisa",
+      "isbn": 9788580416537,
+      "edicao": 1,
+      "idAutor": 8,
+      "idEditora": 9,
+      "idGenero": 7,
+      "idIdioma": 1,
+      "idSecao": 5
+    },
+    {
+      "id": 11,
+      "titulo": "O Código Da Vinci",
+      "isbn": 9780307474278,
+      "edicao": 2,
+      "idAutor": 9,
+      "idEditora": 10,
+      "idGenero": 8,
+      "idIdioma": 2,
+      "idSecao": 5
+    },
+    {
+      "id": 12,
+      "titulo": "Inferno",
+      "isbn": 9780804172264,
+      "edicao": 1,
+      "idAutor": 9,
+      "idEditora": 10,
+      "idGenero": 8,
+      "idIdioma": 2,
+      "idSecao": 5
+    },
+    {
+      "id": 13,
+      "titulo": "Percy Jackson: O Ladrão de Raios",
+      "isbn": 9780786838653,
+      "edicao": 1,
+      "idAutor": 10,
+      "idEditora": 11,
+      "idGenero": 1,
+      "idIdioma": 2,
+      "idSecao": 1
+    },
+    {
+      "id": 14,
+      "titulo": "O Nome do Vento",
+      "isbn": 9780756404741,
+      "edicao": 1,
+      "idAutor": 11,
+      "idEditora": 12,
+      "idGenero": 1,
+      "idIdioma": 2,
+      "idSecao": 1
+    },
+    {
+      "id": 15,
+      "titulo": "Coraline",
+      "isbn": 9780380807345,
+      "edicao": 1,
+      "idAutor": 12,
+      "idEditora": 13,
+      "idGenero": 6,
+      "idIdioma": 2,
+      "idSecao": 4
+    },
+    {
+      "id": 16,
+      "titulo": "O Sol é Para Todos",
+      "isbn": 9780061120084,
+      "edicao": 1,
+      "idAutor": 13,
+      "idEditora": 14,
+      "idGenero": 9,
+      "idIdioma": 2,
+      "idSecao": 6
+    },
+    {
+      "id": 17,
+      "titulo": "Admirável Mundo Novo",
+      "isbn": 9780060850524,
+      "edicao": 1,
+      "idAutor": 14,
+      "idEditora": 14,
+      "idGenero": 2,
+      "idIdioma": 2,
+      "idSecao": 3
+    },
+    {
+      "id": 18,
+      "titulo": "O Apanhador no Campo de Centeio",
+      "isbn": 9780316769488,
+      "edicao": 1,
+      "idAutor": 15,
+      "idEditora": 15,
+      "idGenero": 9,
+      "idIdioma": 2,
+      "idSecao": 6
+    },
+    {
+      "id": 19,
+      "titulo": "Cem Anos de Solidão",
+      "isbn": 9780307474728,
+      "edicao": 1,
+      "idAutor": 16,
+      "idEditora": 16,
+      "idGenero": 9,
+      "idIdioma": 3,
+      "idSecao": 6
+    },
+    {
+      "id": 20,
+      "titulo": "O Morro dos Ventos Uivantes",
+      "isbn": 9780141439556,
+      "edicao": 1,
+      "idAutor": 17,
+      "idEditora": 17,
+      "idGenero": 4,
       "idIdioma": 2,
       "idSecao": 3
     }
@@ -37,32 +224,95 @@
   "generos": [
     {
       "id": 1,
-      "nome": "Aventura"
+      "nome": "Fantasia"
     },
     {
       "id": 2,
-      "nome": "Ação"
+      "nome": "Distopia"
     },
     {
       "id": 3,
+      "nome": "Clássico Brasileiro"
+    },
+    {
+      "id": 4,
       "nome": "Romance"
+    },
+    {
+      "id": 5,
+      "nome": "Ficção Científica"
+    },
+    {
+      "id": 6,
+      "nome": "Infantojuvenil"
+    },
+    {
+      "id": 7,
+      "nome": "Terror"
+    },
+    {
+      "id": 8,
+      "nome": "Thriller"
+    },
+    {
+      "id": 9,
+      "nome": "Drama"
+    },
+    {
+      "id": 10,
+      "nome": "Mitologia"
     }
   ],
   "editoras": [
     {
       "id": 1,
-      "nome": "Editora 1",
-      "cnpj": "111111111"
+      "nome": "HarperCollins",
+      "cnpj": "11111111000199"
     },
     {
       "id": 2,
-      "nome": "Editora 2",
-      "cnpj": "222222222"
+      "nome": "Editora Record",
+      "cnpj": "22222222000199"
     },
     {
       "id": 3,
-      "nome": "Editora 3",
-      "cnpj": "333333333"
+      "nome": "Penguin Books",
+      "cnpj": "33333333000199"
+    },
+    {
+      "id": 4,
+      "nome": "Companhia das Letras",
+      "cnpj": "44444444000199"
+    },
+    {
+      "id": 5,
+      "nome": "Rocco",
+      "cnpj": "55555555000199"
+    },
+    {
+      "id": 6,
+      "nome": "Intrínseca",
+      "cnpj": "66666666000199"
+    },
+    {
+      "id": 7,
+      "nome": "Bloomsbury",
+      "cnpj": "77777777000199"
+    },
+    {
+      "id": 8,
+      "nome": "Agir",
+      "cnpj": "88888888000199"
+    },
+    {
+      "id": 9,
+      "nome": "Suma",
+      "cnpj": "99999999000199"
+    },
+    {
+      "id": 10,
+      "nome": "Arqueiro",
+      "cnpj": "10101010000199"
     }
   ]
 }

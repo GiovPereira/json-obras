@@ -8,8 +8,7 @@
       "idAutor": 1,
       "idEditora": 1,
       "idGenero": 1,
-      "idIdioma": 2,
-      "idSecao": 1
+      "idIdioma": 2
     },
     {
       "id": 2,
@@ -19,8 +18,7 @@
       "idAutor": 2,
       "idEditora": 2,
       "idGenero": 3,
-      "idIdioma": 1,
-      "idSecao": 2
+      "idIdioma": 1
     },
     {
       "id": 3,
@@ -30,8 +28,7 @@
       "idAutor": 3,
       "idEditora": 3,
       "idGenero": 4,
-      "idIdioma": 2,
-      "idSecao": 3
+      "idIdioma": 2
     },
     {
       "id": 4,
@@ -41,8 +38,7 @@
       "idAutor": 4,
       "idEditora": 4,
       "idGenero": 2,
-      "idIdioma": 2,
-      "idSecao": 3
+      "idIdioma": 2
     },
     {
       "id": 5,
@@ -52,8 +48,7 @@
       "idAutor": 4,
       "idEditora": 4,
       "idGenero": 2,
-      "idIdioma": 2,
-      "idSecao": 3
+      "idIdioma": 2
     },
     {
       "id": 6,
@@ -63,8 +58,7 @@
       "idAutor": 1,
       "idEditora": 1,
       "idGenero": 1,
-      "idIdioma": 2,
-      "idSecao": 1
+      "idIdioma": 2
     },
     {
       "id": 7,
@@ -74,8 +68,7 @@
       "idAutor": 5,
       "idEditora": 6,
       "idGenero": 4,
-      "idIdioma": 1,
-      "idSecao": 4
+      "idIdioma": 1
     },
     {
       "id": 8,
@@ -85,8 +78,7 @@
       "idAutor": 6,
       "idEditora": 7,
       "idGenero": 1,
-      "idIdioma": 1,
-      "idSecao": 1
+      "idIdioma": 1
     },
     {
       "id": 9,
@@ -96,8 +88,7 @@
       "idAutor": 7,
       "idEditora": 8,
       "idGenero": 6,
-      "idIdioma": 1,
-      "idSecao": 4
+      "idIdioma": 1
     },
     {
       "id": 10,
@@ -107,8 +98,7 @@
       "idAutor": 8,
       "idEditora": 9,
       "idGenero": 7,
-      "idIdioma": 1,
-      "idSecao": 5
+      "idIdioma": 1
     },
     {
       "id": 11,
@@ -118,8 +108,7 @@
       "idAutor": 9,
       "idEditora": 10,
       "idGenero": 8,
-      "idIdioma": 2,
-      "idSecao": 5
+      "idIdioma": 2
     },
     {
       "id": 12,
@@ -129,8 +118,7 @@
       "idAutor": 9,
       "idEditora": 10,
       "idGenero": 8,
-      "idIdioma": 2,
-      "idSecao": 5
+      "idIdioma": 2
     },
     {
       "id": 13,
@@ -140,8 +128,7 @@
       "idAutor": 10,
       "idEditora": 11,
       "idGenero": 1,
-      "idIdioma": 2,
-      "idSecao": 1
+      "idIdioma": 2
     },
     {
       "id": 14,
@@ -151,8 +138,7 @@
       "idAutor": 11,
       "idEditora": 12,
       "idGenero": 1,
-      "idIdioma": 2,
-      "idSecao": 1
+      "idIdioma": 2
     },
     {
       "id": 15,
@@ -162,8 +148,7 @@
       "idAutor": 12,
       "idEditora": 13,
       "idGenero": 6,
-      "idIdioma": 2,
-      "idSecao": 4
+      "idIdioma": 2
     },
     {
       "id": 16,
@@ -173,8 +158,7 @@
       "idAutor": 13,
       "idEditora": 14,
       "idGenero": 9,
-      "idIdioma": 2,
-      "idSecao": 6
+      "idIdioma": 2
     },
     {
       "id": 17,
@@ -184,8 +168,7 @@
       "idAutor": 14,
       "idEditora": 14,
       "idGenero": 2,
-      "idIdioma": 2,
-      "idSecao": 3
+      "idIdioma": 2
     },
     {
       "id": 18,
@@ -195,8 +178,7 @@
       "idAutor": 15,
       "idEditora": 15,
       "idGenero": 9,
-      "idIdioma": 2,
-      "idSecao": 6
+      "idIdioma": 2
     },
     {
       "id": 19,
@@ -206,8 +188,7 @@
       "idAutor": 16,
       "idEditora": 16,
       "idGenero": 9,
-      "idIdioma": 3,
-      "idSecao": 6
+      "idIdioma": 3
     },
     {
       "id": 20,
@@ -217,8 +198,7 @@
       "idAutor": 17,
       "idEditora": 17,
       "idGenero": 4,
-      "idIdioma": 2,
-      "idSecao": 3
+      "idIdioma": 2
     }
   ],
   "generos": [

@@ -246,53 +246,43 @@
   "editoras": [
     {
       "id": 1,
-      "nome": "HarperCollins",
-      "cnpj": "11111111000199"
+      "nome": "HarperCollins"
     },
     {
       "id": 2,
-      "nome": "Editora Record",
-      "cnpj": "22222222000199"
+      "nome": "Editora Record"
     },
     {
       "id": 3,
-      "nome": "Penguin Books",
-      "cnpj": "33333333000199"
+      "nome": "Penguin Books"
     },
     {
       "id": 4,
-      "nome": "Companhia das Letras",
-      "cnpj": "44444444000199"
+      "nome": "Companhia das Letras"
     },
     {
       "id": 5,
-      "nome": "Rocco",
-      "cnpj": "55555555000199"
+      "nome": "Rocco"
     },
     {
       "id": 6,
-      "nome": "Intrínseca",
-      "cnpj": "66666666000199"
+      "nome": "Intrínseca"
     },
     {
       "id": 7,
-      "nome": "Bloomsbury",
-      "cnpj": "77777777000199"
+      "nome": "Bloomsbury"
     },
     {
       "id": 8,
-      "nome": "Agir",
-      "cnpj": "88888888000199"
+      "nome": "Agir"
     },
     {
       "id": 9,
-      "nome": "Suma",
-      "cnpj": "99999999000199"
+      "nome": "Suma"
     },
     {
       "id": 10,
-      "nome": "Arqueiro",
-      "cnpj": "10101010000199"
+      "nome": "Arqueiro"
     }
   ]
 }

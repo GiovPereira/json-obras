@@ -284,5 +284,14 @@
       "id": 10,
       "nome": "Arqueiro"
     }
+  ],
+  "statusReservas": [
+    {
+      "id": 1,
+      "nome": "Ativo"
+    },{
+      "id": 2,
+      "nome": "Finalizado"
+    }
   ]
 }

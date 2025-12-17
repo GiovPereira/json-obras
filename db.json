@@ -288,10 +288,15 @@
   "statusReservas": [
     {
       "id": 1,
-      "nome": "Ativo"
-    },{
+      "nome": "Ativa"
+    },
+    {
       "id": 2,
-      "nome": "Finalizado"
+      "nome": "Aguardando retirada"
+    },
+    {
+      "id": 2,
+      "nome": "Expirada"
     }
   ]
 }

@@ -295,7 +295,11 @@
       "nome": "Aguardando retirada"
     },
     {
-      "id": 2,
+      "id": 3,
+      "nome": "Atendida"
+    },
+    {
+      "id": 4,
       "nome": "Expirada"
     }
   ]
